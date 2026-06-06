@@ -1,0 +1,22 @@
+# VS编译输出
+Debug/
+Release/
+x64/
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# VS本地用户配置
+*.vcxproj.user
+*.suo
+*.sdf
+*.ipch
+.vs/
+
+# vscode配置
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
